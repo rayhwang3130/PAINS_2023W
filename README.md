@@ -5,15 +5,6 @@ PAINS 2022~2023 동계 프로젝트
 
 ### 부제 : PL 최고의 패스마스터 찾기 – 패스를 더 잘 줄 수는 없었는가?
 
-![??: 덕배야 야발 패스를 그렇게 주면 어떡해](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/a2e745cb-f15e-4ef5-9c3c-507f399c5e87/Untitled.png)
-
-??: 덕배야 야발 패스를 그렇게 주면 어떡해
-
-<aside>
-💡 업무 분담은 [노션 0110(화) 회의록](https://www.notion.so/2023-01-10-3a0382a116d142e19324812a4680329f) 참고, [타임라인](https://www.notion.so/8527a971336645dbad90b531e51a6ad3) 확인
-
-</aside>
-
 ## 목차
 
 ## 서론
